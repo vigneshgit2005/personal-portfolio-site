@@ -31,7 +31,7 @@ I’m currently pursuing **Artificial Intelligence** at **Madanapalle Institute 
 
 | Home Page | About Section | Projects |
 |-----------|----------------|----------|
-| ![Home](screenshots/home.png) | ![About](screenshots/about.png) | ![Projects](screenshots/projects.png) |
+| ![Home](Home%20Section.jpg) | ![About](About%20Section.jpg) | ![Projects](Projects%20Section.jpg) |
 
 ## 🚀 How to Run
 
